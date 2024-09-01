@@ -1,4 +1,4 @@
-<h1>Proyecto_Google_Clone</h1>
+<h1>Proyecto-Google-Clone</h1>
 <p>Proyecto en el que usando HTML y CSS, se crea un clon del sitio de búsquedas de Google.</p>
 <div><b>Tecnologías:</b>
 <ul>
